@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=35&duration=4993&pause=1011&color=AFA5F7&width=435&height=60&center=true&lines=Hi+there%F0%9F%91%8B+This+is+Haram+Lee.;%E2%9C%A8Have+a+good+day%E2%9C%A8)](https://git.io/typing-svg)
 
-<br><br><br>
+<br><br>
 
 <h3> ⋆｡ﾟ✶° 💜 Contact to me 💜 ⋆｡ﾟ✶° </h3>
 
@@ -12,7 +12,7 @@
     <a href="mailto:ramhi0518@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ramhi0518@gmail.com"/></a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center"> ☾ ⋆⁺₊⋆ 💙 Tech Stack 💙 ☾ ⋆⁺₊⋆ </h3>
 <div>Languages</div><br>
